@@ -20,7 +20,7 @@ A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS E
 ![Observability](grafana_dashboard_import.png)
 
 ## ArgoCD:
-![ArGo](ArgoStack.png)
+![ArGo](argo_pods.png)
 
 ## Kubernetes Dashboard:
 
