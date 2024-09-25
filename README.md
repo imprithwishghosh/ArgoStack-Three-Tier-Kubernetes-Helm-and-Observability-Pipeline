@@ -11,4 +11,24 @@ A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS E
 :point_right:  Install and configure Argo CD. <br>
 :point_right:  Connect and manage your Kubernetes cluster with Argo CD.
 
-# Architecture :
+# Architecture Diagram:
+
+![Architecture](ArgoStack.png)
+
+## Observability:
+
+![Observability](grafana_dashboard_import.png)
+
+## ArgoCD:
+![ArGo](ArgoStack.png)
+
+## Kubernetes Dashboard:
+
+![kubernetes](dashboard_Explo.png)
+
+## Application:
+
+![Application](application.png)
+
+
+Full Implementation is here : https://prithg.hashnode.dev/argostack-three-tier-kubernetes-helm-and-observability-pipeline
